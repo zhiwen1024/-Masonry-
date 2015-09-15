@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  quesston
+//
+//  Created by cdel_GL on 15/8/12.
+//  Copyright (c) 2015年 ZZW. All rights reserved.
+//
+
+#ifndef quesston_PrefixHeader_pch
+#define quesston_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#define  asdd 123
+#define good sdsd
+#define  MAS_SHORTHAND_GLOBALS
+#import <Masonry.h>
+
+#define MAS_SHORTHAND
+
+#import "UIView+mas.h"
+
+#endif

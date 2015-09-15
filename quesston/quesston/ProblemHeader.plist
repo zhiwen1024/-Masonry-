@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>questionTitle</key>
+		<string>利润总额＝1 200－550－30－60－200－40－10＋2.6＋5－5＋100－60＋5＝357.6（万元）&lt;br /&gt;按税法规定当年准予税前扣除的职工教育经费52万元，故当年实际发生的职工教育经费可以全部税前扣除；&lt;br /&gt;按税法规定当年准予税前扣除的职工工会经费41万元，故当年实际发生的45万元工会经费中有4万元不可以税前扣除，需要纳税调增。&lt;br /&gt;综上企业当年的应纳税所得额＝357.6＋4＝361.6（万元）&lt;br /&gt;所以应交所得税＝361.6×25%＝90.4（万元）</string>
+	</dict>
+	<dict>
+		<key>questionTitle</key>
+		<string>NSCache 是苹果官方提供的缓存类，用法与 NSMutableDictionary 的用法很相似，在 AFNetworking 和 SDWebImage 中，使用它来管理缓存</string>
+	</dict>
+</array>
+</plist>
